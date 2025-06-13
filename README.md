@@ -59,5 +59,5 @@ We developed robust pipelines combining classical ML with advanced feature engin
 ## 📄 Project Report & Slides
 
 - [📘 Fraud Detection Detailed Report (PDF)](.Report/CONVOLVE_3_0.pdf)
-- [📊 Time Slots Slide Deck (PDF)](./report/finsight-deck.pdf)
+- [📊 Time Slots Slide Deck (PDF)](Report/slide_deck.pdf)
 
